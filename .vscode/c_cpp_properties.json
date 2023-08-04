@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/mostafa/Desktop/first_step/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/mostafa/Desktop/first_step/src/turtlebot3_fake/include/**",
+        "/home/mostafa/Desktop/first_step/src/turtlebot3_gazebo/include/**",
+        "/home/mostafa/Desktop/first_step/src/turtlebot3/turtlebot3_slam/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
